@@ -1,0 +1,1 @@
+setInterval(renderDate,1000);
