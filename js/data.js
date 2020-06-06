@@ -18,7 +18,7 @@ async function getPos(pos) {
 }
 
 function errorMsg(err) {
-    alert("Something went wrong.");
+    alert("Something went wrong.Please enable location access");
     console.log(err);
 }
 
